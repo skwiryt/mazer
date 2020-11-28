@@ -1,5 +1,5 @@
 # mazer
-I is  a solution to mazer puzle based on Joseph Kern's one:
+It is  a solution to mazer puzle based on Joseph Kern's one:
 https://stackoverflow.com/questions/12995434/representing-and-solving-a-maze-given-an-image/13174351#13174351
 
 A program needs to be invoked with the parameter giving a path to the source image.
